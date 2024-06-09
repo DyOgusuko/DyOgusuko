@@ -2,7 +2,7 @@
 
 Meu nome é Dylan Kenji Ogusuko Costa
 
-- Estou estudando na Alura;
+- Estou estudando na [Alura](https://www.alura.com.br);
 - Estou me desenvolvendo na linguagem de JavaScript;
 - Utilizo este espaço como uma forma de repositório dos meus projetos;
 
@@ -14,4 +14,5 @@ Instagram: @dylansxbb
 
 
 ![]()
-![image](https://github.com/DyOgusuko/DyOgusuko/assets/172217495/72642d7a-4cde-4d46-a6c4-e24917ce8d91)
+![image](https://github.com/DyOgusuko/DyOgusuko/assets/172217495/7ccb743e-74e4-49cb-a94e-83de8d5e724f)
+
