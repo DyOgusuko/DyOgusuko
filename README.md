@@ -14,5 +14,4 @@ Instagram: @dylansxbb
 
 
 ![]()
-[![gif](https://github.com/DyOgusuko/DyOgusuko/assets/172217495/7ccb743e-74e4-49cb-a94e-83de8d5e724f)](https://media1.tenor.com/m/5BYK-WS0__gAAAAd/cool-fun.gif)
-
+https://media1.tenor.com/m/5BYK-WS0__gAAAAd/cool-fun.gif
